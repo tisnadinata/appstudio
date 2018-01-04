@@ -359,7 +359,7 @@ this website is under development, content and user interface displayed may chan
                     </div>
                     <strong>WEB & MOBILE DESIGN</strong>
                     <div class="progress">
-                        <div class="progress-bar progress-bar-primary" role="progressbar" data-width="70">70%</div>
+                        <div class="progress-bar progress-bar-primary" role="progressbar" data-width="75">80%</div>
                     </div>
                     <strong>WEBSITE PROGRAMMING</strong>
                     <div class="progress">
@@ -367,7 +367,7 @@ this website is under development, content and user interface displayed may chan
                     </div>
                     <strong>MOBILE PROGRAMMING</strong>
                     <div class="progress">
-                        <div class="progress-bar progress-bar-primary" role="progressbar" data-width="65">70%</div>
+                        <div class="progress-bar progress-bar-primary" role="progressbar" data-width="75">80%</div>
                     </div>
                 </div>
 
