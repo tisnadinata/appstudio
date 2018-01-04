@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
 <!-- Mirrored from demo.themeum.com/html/multi/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 01 Oct 2017 04:31:42 GMT -->
 <head>
     <meta charset="utf-8">
@@ -29,9 +28,7 @@
     <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
 </head>
 <!--/head-->
-
 <body id="home" class="homepage">
-
     <header id="header">
         <nav id="main-menu" class="navbar navbar-default navbar-fixed-top" role="banner">
             <div class="container">
@@ -56,6 +53,9 @@
                     </ul>
                 </div>
             </div>
+<div style="width:100%;padding: 1%;font-size: large;text-transform: uppercase;text-align: center;background-color: brown;color: white;">
+this website is under development, content and user interface displayed may change according to content released later
+</div>
             <!--/.container-->
         </nav>
         <!--/nav-->
@@ -70,7 +70,7 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
-                                    <h2><span>Appstudio</span> is the best web and mobile developer</h2>
+                                    <h2><span>Appstudio</span> is the friendly web and mobile developer</h2>
                                     <p>We make your dreamed website come true. </p>
                                     <a class="btn btn-primary btn-lg" href="#">Contact Us</a>
                                 </div>
@@ -105,7 +105,7 @@
         <div class="container">
             <div class="section-header">
                 <h2 class="section-title text-center wow fadeInDown">Our Services</h2>
-                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+                <p class="text-center wow fadeInDown">Kami menyediakan berbagai layanan untuk menunjang aplikasi impian anda, dengan metode diskusi yang akan membuat anda merasa mempunyai tim sendiri.</p>
             </div>
             <div class="row">
                 <div class="col-sm-6 wow fadeInLeft">
@@ -117,8 +117,8 @@
                             <i class="fa fa-line-chart"></i>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading">UX design</h4>
-                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
+                            <h4 class="media-heading">User Experience (UX) Design</h4>
+                            <p>Berikan kenyamanan bagi pengguna aplikasi anda dalam menggunakannya dengan <i>User Experience</i> yang baik.</p>
                         </div>
                     </div>
 
@@ -127,28 +127,28 @@
                             <i class="fa fa-cubes"></i>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading">UI design</h4>
-                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
+                            <h4 class="media-heading">User Interface (UI) Design</h4>
+                            <p>Manjakan pengguna anda dengan tampilan aplikasi yang memukau dan nyaman dilihat</p>
                         </div>
                     </div>
 
                     <div class="media service-box wow fadeInRight">
                         <div class="pull-left">
-                            <i class="fa fa-pie-chart"></i>
+                            <i class="fa fa-desktop"></i>
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading">Website Application</h4>
-                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
+                            <p>Wujudkan website yang anda inginkan dengan sistem dan tampilan yang baik</p>
                         </div>
                     </div>
 
                     <div class="media service-box wow fadeInRight">
                         <div class="pull-left">
-                            <i class="fa fa-pie-chart"></i>
+                            <i class="fa fa-mobile"></i>
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading">Mobile Application</h4>
-                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
+                            <p>Berikan kemudahan aplikasi anda ke setiap genggaman pengguna</p>
                         </div>
                     </div>
                 </div>
@@ -161,7 +161,7 @@
         <div class="container">
             <div class="section-header">
                 <h2 class="section-title text-center wow fadeInDown">Our Works</h2>
-                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+                <p class="text-center wow fadeInDown">Mereka yang sudah bekerja sama dengan kami dalam membantu mewujudkan aplikasi impian mereka.</p>
             </div>
 
             <div class="text-center">
@@ -247,29 +247,6 @@
                 </div>
                 <!--/.portfolio-item-->
 
-                <div class="portfolio-item design mobile">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/07.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 7</h3>
-                            Lorem Ipsum Dolor Sit
-                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <!--/.portfolio-item-->
-
-                <div class="portfolio-item website">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/08.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 8</h3>
-                            Lorem Ipsum Dolor Sit
-                            <a class="preview" href="images/portfolio/full.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <!--/.portfolio-item-->
             </div>
         </div>
         <!--/.container-->
@@ -280,7 +257,7 @@
         <div class="container">
             <div class="section-header">
                 <h2 class="section-title text-center wow fadeInDown">Our Process</h2>
-                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+                <p class="text-center wow fadeInDown">Hindari dan perkecil kesalahan dan efektifkan waktu dengan proses pengerjaan yang baik dan teratur.<br>Dengan 6 langkah pasti mari wujudkan aplikasimu</p>
             </div>
 
             <div class="row text-center">
@@ -347,7 +324,7 @@
         <div class="container">
             <div class="section-header">
                 <h2 class="section-title text-center wow fadeInDown">Meet The Team</h2>
-                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+                <p class="text-center wow fadeInDown">Kenali kami, tim anda yang bekerja dan membantu mewujudkan aplikasi yang anda inginkan</p>
             </div>
 
             <div class="row">
@@ -360,7 +337,7 @@
                             <h3>Muhammad Aditya Tisnadinata</h3>
                             <span>Founder & CEO</span>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</p>
+                        <p></p>
                         <ul class="social-icons">
                             <li><a href="https://www.facebook.com/maditya.thae" target="_blank"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="https://twitter.com/tisnadinata" target="_blank"><i class="fa fa-twitter"></i></a></li>
@@ -407,7 +384,7 @@
                             </div>
                             <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                                 <div class="panel-body">
-									For now, we provide a choice between React JS and PHP (Native or Framework)
+									For now, we provide a choice between NodeJS, ReactJS,Go and PHP (Native or Framework)
                                 </div>
                             </div>
                         </div>
@@ -421,7 +398,7 @@
                             </div>
                             <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                                 <div class="panel-body">
-									For now, we only use java with Android Studio IDE
+									For now, we only use java for Android, Objective-C for iOS and Hybrid App if you want faster
                                 </div>
                             </div>
                         </div>
@@ -501,7 +478,7 @@
                             <li>SHARED SSL CERTIFICATE</li>
                             <li><strong>8/5</strong> SUPPORT</li>
 							<small>*Minimum 6 months contract</small>
-                            <li class="plan-purchase"><a class="btn btn-primary" href="#">ORDER NOW</a></li>
+                            <li class="plan-purchase"><a class="btn btn-primary" href="#about">ORDER NOW</a></li>
                         </ul>
                     </div>
                 </div>
@@ -511,7 +488,7 @@
                             <li class="plan-header">
                                 <div class="price-duration">
                                     <span class="price">
-                                        $70
+                                        $75
                                     </span>
                                     <span class="duration">
                                         per month
@@ -528,7 +505,7 @@
                             <li>SHARED SSL CERTIFICATE</li>
                             <li><strong>16/5</strong> SUPPORT</li>
 							<small>*Minimum 12 months contract</small>
-                            <li class="plan-purchase"><a class="btn btn-primary" href="#">ORDER NOW</a></li>
+                            <li class="plan-purchase"><a class="btn btn-primary" href="#about">ORDER NOW</a></li>
                         </ul>
                     </div>
                 </div>
@@ -555,7 +532,7 @@
                             <li><strong>UNLIMITED</strong> BANDWIDTH</li>
                             <li><strong>24/7</strong> SUPPORT</li>
 							<small>*Contract by discussion</small>
-                            <li class="plan-purchase"><a class="btn btn-default" href="#">ORDER NOW</a></li>
+                            <li class="plan-purchase"><a class="btn btn-default" href="#about">ORDER NOW</a></li>
                         </ul>
                     </div>
                 </div>
@@ -574,15 +551,15 @@
                         <div class="carousel-inner" role="listbox">
                             <div class="item active">
                                 <p><img class="img-circle img-thumbnail" src="images/testimonial/01.jpg" alt=""></p>
-                                <h4>Louise S. Morgan</h4>
-                                <small>Treatment, storage, and disposal (TSD) worker</small>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam</p>
+                                <h4>Aryanto Hong</h4>
+                                <small>Founder & Owner pinopi.com, Owner yesnumber1.com</small>
+                                <p>coming soon</p>
                             </div>
                             <div class="item">
                                 <p><img class="img-circle img-thumbnail" src="images/testimonial/01.jpg" alt=""></p>
-                                <h4>Louise S. Morgan</h4>
-                                <small>Treatment, storage, and disposal (TSD) worker</small>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam</p>
+                                <h4>Aryanto Hong</h4>
+                                <small>Founder & Owner pinopi.com, Owner yesnumber1.com</small>
+                                <p>coming soon</p>
                             </div>
                         </div>
 
@@ -609,33 +586,32 @@
 
             <div class="section-header">
                 <h2 class="section-title text-center wow fadeInDown">About Us</h2>
-                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+                <p class="text-center wow fadeInDown">Hubungi kami jika anda tertarik untuk bekerjasama dengan kami, anda juga bisa temukan kami di alamat kami</p>
             </div>
 
             <div class="row">
                 <div class="col-sm-4 wow fadeInLeft">
                     <h3 class="column-title">Our Location</h3>
-			        <div id="google-map" style="height:375px" data-latitude="52.365629" data-longitude="4.871331"></div>
+			        <div id="google-map" style="height:375px" data-latitude="-7.002299" data-longitude="107.626038"></div>
                 </div>
 				<div class="col-md-12 visible-xs">
 				&nbsp
 				</div>
                 <div class="col-sm-4 wow fadeInRight">
                     <h3 class="column-title">About Us</h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                    <p>Kami adalah startup dalam bidang IT Software yang mengedepankan keinginan anda, ayo berdiskusi dan wujudkan aplikasi yang kamu inginkan.</p>
 
                     <div class="row">
                         <div class="col-sm-6">
                             <ul class="nostyle">
-                                <li><i class="fa fa-check-square"></i> Ipsum is simply dummy</li>
-                                <li><i class="fa fa-check-square"></i> When an unknown</li>
+                                <li><i class="fa fa-check-square"></i> Pengerjaan cepat </li>
+                                <li><i class="fa fa-check-square"></i> Harga bersaing </li>
                             </ul>
                         </div>
 
                         <div class="col-sm-6">
                             <ul class="nostyle">
-                                <li><i class="fa fa-check-square"></i> The printing and typesetting</li>
-                                <li><i class="fa fa-check-square"></i> Lorem Ipsum has been</li>
+                                <li><i class="fa fa-check-square"></i> Kualitas terjamin</li>
                             </ul>
                         </div>
                     </div>
@@ -670,7 +646,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    &copy; 2017 Appstudio.id. Designed by <a target="_blank" href="http://shapebootstrap.net/" title="Free Twitter Bootstrap WordPress Themes and HTML templates">ShapeBootstrap</a>. Edited by APPSTUDIO.ID</a>
+                    &copy; 2017 Appstudio.id. Powered by <a target="_blank" href="https://shapebootstrap.net/">ShapeBootstrap</a>.
                 </div>
                 <div class="col-sm-6">
                     <ul class="social-icons">
@@ -689,7 +665,7 @@
 
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+    <script src="https://maps.google.com/maps/api/js?sensor=true&key=AIzaSyBw4UXt34osBTaVCkxURHMbwxZU2eRXjHA&callback=initMap"></script>
     <script src="js/owl.carousel.min.js"></script>
     <script src="js/mousescroll.js"></script>
     <script src="js/smoothscroll.js"></script>
