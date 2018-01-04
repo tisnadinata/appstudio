@@ -109,7 +109,7 @@ this website is under development, content and user interface displayed may chan
             </div>
             <div class="row">
                 <div class="col-sm-6 wow fadeInLeft">
-                    <img class="img-responsive" src="images/main-feature.png" alt="">
+                    <img class="img-responsive" src="images/main-feature3.png" alt="">
                 </div>
                 <div class="col-sm-6">
                     <div class="media service-box wow fadeInRight">
@@ -117,18 +117,8 @@ this website is under development, content and user interface displayed may chan
                             <i class="fa fa-line-chart"></i>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading">User Experience (UX) Design</h4>
-                            <p>Berikan kenyamanan bagi pengguna aplikasi anda dalam menggunakannya dengan <i>User Experience</i> yang baik.</p>
-                        </div>
-                    </div>
-
-                    <div class="media service-box wow fadeInRight">
-                        <div class="pull-left">
-                            <i class="fa fa-cubes"></i>
-                        </div>
-                        <div class="media-body">
-                            <h4 class="media-heading">User Interface (UI) Design</h4>
-                            <p>Manjakan pengguna anda dengan tampilan aplikasi yang memukau dan nyaman dilihat</p>
+                            <h4 class="media-heading">UI & UX Design</h4>
+                            <p>Berikan pengalaman dan tampilan terbaik bagi pengguna aplikasi anda.</p>
                         </div>
                     </div>
 
@@ -138,7 +128,7 @@ this website is under development, content and user interface displayed may chan
                         </div>
                         <div class="media-body">
                             <h4 class="media-heading">Website Application</h4>
-                            <p>Wujudkan website yang anda inginkan dengan sistem dan tampilan yang baik</p>
+                            <p>Berikan akses yang lebih leluasa untuk aplikasi anda</p>
                         </div>
                     </div>
 
